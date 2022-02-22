@@ -1,0 +1,16 @@
+C:\Users\alunos\source\repos\SistemaAcademico_Solu\SistemaAcademico\bin\Debug\net5.0\SistemaAcademico.exe
+C:\Users\alunos\source\repos\SistemaAcademico_Solu\SistemaAcademico\bin\Debug\net5.0\SistemaAcademico.deps.json
+C:\Users\alunos\source\repos\SistemaAcademico_Solu\SistemaAcademico\bin\Debug\net5.0\SistemaAcademico.runtimeconfig.json
+C:\Users\alunos\source\repos\SistemaAcademico_Solu\SistemaAcademico\bin\Debug\net5.0\SistemaAcademico.runtimeconfig.dev.json
+C:\Users\alunos\source\repos\SistemaAcademico_Solu\SistemaAcademico\bin\Debug\net5.0\SistemaAcademico.dll
+C:\Users\alunos\source\repos\SistemaAcademico_Solu\SistemaAcademico\bin\Debug\net5.0\ref\SistemaAcademico.dll
+C:\Users\alunos\source\repos\SistemaAcademico_Solu\SistemaAcademico\bin\Debug\net5.0\SistemaAcademico.pdb
+C:\Users\alunos\source\repos\SistemaAcademico_Solu\SistemaAcademico\obj\Debug\net5.0\SistemaAcademico.csproj.AssemblyReference.cache
+C:\Users\alunos\source\repos\SistemaAcademico_Solu\SistemaAcademico\obj\Debug\net5.0\SistemaAcademico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alunos\source\repos\SistemaAcademico_Solu\SistemaAcademico\obj\Debug\net5.0\SistemaAcademico.AssemblyInfoInputs.cache
+C:\Users\alunos\source\repos\SistemaAcademico_Solu\SistemaAcademico\obj\Debug\net5.0\SistemaAcademico.AssemblyInfo.cs
+C:\Users\alunos\source\repos\SistemaAcademico_Solu\SistemaAcademico\obj\Debug\net5.0\SistemaAcademico.csproj.CoreCompileInputs.cache
+C:\Users\alunos\source\repos\SistemaAcademico_Solu\SistemaAcademico\obj\Debug\net5.0\SistemaAcademico.dll
+C:\Users\alunos\source\repos\SistemaAcademico_Solu\SistemaAcademico\obj\Debug\net5.0\ref\SistemaAcademico.dll
+C:\Users\alunos\source\repos\SistemaAcademico_Solu\SistemaAcademico\obj\Debug\net5.0\SistemaAcademico.pdb
+C:\Users\alunos\source\repos\SistemaAcademico_Solu\SistemaAcademico\obj\Debug\net5.0\SistemaAcademico.genruntimeconfig.cache
